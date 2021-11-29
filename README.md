@@ -1,4 +1,4 @@
-# classify_triangle
+# Static Code Analysis of classify_triangle
 
 
 The objective of this assignment is to apply the techniques from the lecture to static testing of your Triangles program.    Specifically:
